@@ -1,0 +1,30 @@
+.counter-container {
+    border: 1px solid black;
+    padding-bottom: 1rem;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-left: 2rem;
+    /* width: max-content; */
+    background-color: #cbcbcb;
+
+}
+
+.counter-button {
+    color: black;
+    border-radius: 0.5rem;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.counter-value {
+    font-size: x-large;
+    font-weight: bold;
+    margin: 0 1rem;
+    text-align: center;
+}
+
+.counter-title {
+    color: darkblue;
+    font-weight: bold;
+}

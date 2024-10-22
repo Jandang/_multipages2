@@ -1,0 +1,35 @@
+.add-container {
+    border: 1px solid black;
+    padding-bottom: 1rem;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin: 1rem auto;
+    width: max-content;
+    height: max-content;
+    background-color: #ffffff;
+
+}
+.add-title {
+    color: darkblue;
+    font-weight: bold;
+}
+.add-variables {
+    /* display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    font-size: x-large;
+    font-weight: bold;
+    width: max-content;
+    margin: auto; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+   
+}
+.add-display {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0.25rem;
+    width: max-content;
+    margin: auto;
+}

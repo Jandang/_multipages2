@@ -1,0 +1,34 @@
+.home-container {
+    /* border: 1px solid black; */
+    /* text-align: center; */
+    width: 1020px;
+    height: max-content;
+    margin: 0 auto;
+    display: flex;
+    background-color: rgb(254, 179, 184);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.home-image {
+    /* border: 1px solid black; */
+    height: 400px;
+    width: 300px;
+    margin: 10px;
+    background-image: url(./public/img/IMG_7537.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 1.5rem;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* top: 90px; */
+}
+.home-text{
+    margin: 1.5rem;
+    font-size: 25px;
+    font-weight: 400;
+}
+  

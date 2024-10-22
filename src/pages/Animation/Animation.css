@@ -1,0 +1,63 @@
+#container {
+    border: 1px solid rgb(0, 0, 0);
+    margin: 10px auto;
+    width: fit-content;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+#field {
+    background-position: center;
+    border-radius: 10px;
+    background-size: cover;
+    background-image: url(./public/img/field.jpg);
+    margin: 10px;
+    position: relative;
+}
+
+#ball {
+    background-color: rgba(255, 255, 255, 0.658);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50%;
+    position: absolute;
+}
+
+#control {
+    margin: 10px;
+    background-position: center;
+}
+
+.position-right {
+    float: right;
+}
+
+button.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+.cartoon {
+    background-image: url(./public/img/cartoon.png);
+    background-size: cover;
+}
+.basketball {
+    background-image: url(./public/img/basketball.png);
+    background-size: cover;
+}
+.football {
+    background-image: url(./public/img/football.png);
+    background-size: cover;
+}
+.volleyball {
+    background-image: url(./public/img/volleyball.png);
+    background-size: cover;
+}
+.human {
+    background-image: url(./public/img/human.png);
+    background-size: cover;
+}
+.logo {
+    background-image: url(./public/img/logo.png);
+    background-size: cover;
+}
