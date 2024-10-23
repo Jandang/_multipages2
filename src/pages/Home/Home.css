@@ -15,7 +15,7 @@
     height: 400px;
     width: 300px;
     margin: 10px;
-    background-image: url(./public/img/IMG_7537.jpg);
+    background-image: url('./public/img/IMG_7537.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-size: cover;

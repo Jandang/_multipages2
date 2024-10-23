@@ -6,7 +6,7 @@
     height: 640px;
     margin: 0 auto;
     align-content: center;
-    background-image: url(./public/img/bg5.jpg);
+    background-image: url('./public/img/bg5.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-size: cover;

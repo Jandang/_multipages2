@@ -10,7 +10,7 @@
     background-position: center;
     border-radius: 10px;
     background-size: cover;
-    background-image: url(./public/img/field.jpg);
+    background-image: url('./public/img/field.jpg');
     margin: 10px;
     position: relative;
 }
@@ -38,26 +38,26 @@ button.active {
 }
 
 .cartoon {
-    background-image: url(./public/img/cartoon.png);
+    background-image: url('./public/img/cartoon.png');
     background-size: cover;
 }
 .basketball {
-    background-image: url(./public/img/basketball.png);
+    background-image: url('./public/img/basketball.png');
     background-size: cover;
 }
 .football {
-    background-image: url(./public/img/football.png);
+    background-image: url('./public/img/football.png');
     background-size: cover;
 }
 .volleyball {
-    background-image: url(./public/img/volleyball.png);
+    background-image: url('./public/img/volleyball.png');
     background-size: cover;
 }
 .human {
-    background-image: url(./public/img/human.png);
+    background-image: url('./public/img/human.png');
     background-size: cover;
 }
 .logo {
-    background-image: url(./public/img/logo.png);
+    background-image: url('./public/img/logo.png');
     background-size: cover;
 }
