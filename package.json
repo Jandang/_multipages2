@@ -2,7 +2,7 @@
   "name": "multipages",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jandang.github.io/_multipages2",
+  "homepage": "https://jandang.github.io/_multipages2/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
